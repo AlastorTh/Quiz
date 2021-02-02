@@ -5,8 +5,3 @@ type Field struct {
 	Question string
 	Answer   int
 }
-
-// Container for records ..
-type Container struct {
-	Field []*Field
-}
